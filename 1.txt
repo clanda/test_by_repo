@@ -1,2 +1,3 @@
 <<<<<<< HEAD
 Creating a new branch quick & branch master changes and branch feature fix conflict.
+this is master.
