@@ -3,4 +3,5 @@ Creating a new branch quick & branch master changes and branch feature fix confl
 do something change world.
 让我们一起摇摆。
 this a doing work but unchecked.
-Now,we are doing special thing.a
+Now,we are doing special thing.
+this version ahead of master.
